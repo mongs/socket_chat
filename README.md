@@ -24,7 +24,7 @@ $ cnpm install express socket.io
 $ node app
 ```
 
-## 浏览器访问[localhost:3000](localhost:3000)
+## 浏览器访问  [localhost:3000](localhost:3000)
 可以多开几个页面,相互聊天
 
 
